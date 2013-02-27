@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>{% block title %}Project{% endblock %}</title>
+    <link href="{{ STATIC_URL }}css/boostrap.min.css" rel="stylesheet">
+    <link href="{{ STATIC_URL }}css/stylesheet.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container">
+        {% block content %}
+        {% endblock %}
+    </div>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
+    <script src="{{ STATIC_URL }}js/bootstrap.min.js"></script>
+</body>
+</html>

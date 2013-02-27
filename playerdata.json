@@ -1,0 +1,129 @@
+[
+	{
+		"pk":1,
+		"model":"roster.Player",
+		"fields":{
+			"name":"Rodney Purvis",
+			"number":0,
+			"height":75,
+			"weight":195,
+			"position":"Guard",
+			"year":"Freshman",
+			"hometown":"Raleigh",
+			"state":"North Carolina",
+			"high_school":"Upper Room Christian Academy",
+			"image_url":"/Users/cwells/teamproject/teamproject/teamproject/static_media/img/purvis.jpeg",
+			"bio":"Named the 2012 North Carolina Gatorade Player of the Year ... A McDonald's All-American ... The 2012 Associated Press North Carolina Men's Prep Basketball Player of the Year ... Member of the 2012 North Carolina AP All-State Men's Prep Basketball Team ... Member of the USA Basketball team that won the gold at the FIBA Americas U-18 Championship ... Scored 15 points and handed out three assists in 22 minutes of action at the McDonald's All-America game in Chicago ... Picked as the co-MVP of the Jordan Brand Classic following a 22-point, two-rebound and three-steal performance in the contest ... Led Upper Room Christian Academy to a 24-16 mark and the Great Carolina High School Athletic Association championship ... Tabbed as the GCHSAA MVP ... Scored 24 points in the championship game ... Averaged 26.1 points, 6.7 rebounds and 4.2 assists per game ... Rated by Rivals.com as the No. 6 player nationally, while listed by Scout.com as No. 15 prospect and ESPN No. 16 ... Recruiting analyst Bob Gibbons rates Purvis as No. 21 senior ... Logged a 46-point performance against Greensboro Day ... Participated in the LeBron Skills Academy, CP3 Invitational, Nike Peach Jam, the Super Showcase and AAU Nationals ... Played for former NC State standout Avie Lester at Upper Room."
+			
+			}
+	},
+	{
+		"pk":2,
+		"model":"roster.Player",
+		"fields":{
+			"name":"Richard Howell",
+			"number":1,
+			"height":257,
+			"weight":80,
+			"position":"Forward",
+			"year":"Senior",
+			"hometown":"Marietta",
+			"state":"Georgia",
+			"high_school":"Wheeler",
+			"image_url":"/Users/cwells/teamproject/teamproject/teamproject/static_media/img/howell.jpeg",
+			"bio":"Played at Wheeler High School in Marietta, Ga. ... A Georgia 5A All-State first-team selection ... Helped Wheeler to the Georgia state title ... Scored 20 points and added eight rebounds in the championship game ... Averaged 16.5 points as a senior ... Team went 25-7 ... Coached by Doug Lipscomb ... Played in the Charm City Challenge in Baltimore ... Scored 17 points, and was named to the All-Tournament team ... Also played in the Reebok All-American Game ... Rated the 64th-best overall prospect and the No. 19 power forward by Scout.com ... Ranked the No. 15 power forward, No. 51 overall and a four-star prospect by Rivals.com ... The No. 65 player nationally, and No. 20 power forward according to ESPNU ... Ranked No. 74 nationally by PrepStars."
+			
+			}
+	},
+	{
+		"pk":3,
+		"model":"roster.Player",
+		"fields":{
+			"name":"Lorenzo Brown",
+			"number":2,
+			"height":77,
+			"weight":186,
+			"position":"Guard",
+			"year":"Junior",
+			"hometown":"Roswell",
+			"state":"Georgia",
+			"high_school":"Hargrave Military Academy",
+			"image_url":"/Users/cwells/teamproject/teamproject/teamproject/static_media/img/brown.jpeg",
+			"bio":"Attended Hargrave Military Academy after graduating high school ... Originally signed with the Wolfpack in November of 2008 ... Finished his high school career at Centennial High School in Roswell, Ga. ... Coached by Allen Whitehart ... Named a fourth-team Parade All-American after his senior season ... Named the Georgia 5A player of the Year ... Also a 5A all-state first-team selection ... Named Metro Atlanta Player of the Year ... Averaged 20.8 points ... Team went 25-5 ... Lost in the second round of the state playoffs ... Had 27 points, 11 rebounds and seven assists in his final game ... Averaged 25 points, eight rebounds and eight assists per game as a junior ... Played in the Charm City Challenge in Baltimore and the Reebok All-American Game in Washington, D.C. after his senior season ... In the 2009 class rankings, he was rated the 28th-best overall prospect by Scout.com ... Also ranked the No. 8 shooting guard and a five-star prospect ... In the 2010 class rankings, he was No. 36 nationally and the No. 7 shooting guard by Rivals.com ... No. 17 nationally according to PrepStars.com."
+			
+			}
+	},
+	{
+		"pk":4,
+		"model":"roster.Player",
+		"fields":{
+			"name":"CJ Leslie",
+			"number":5,
+			"height":81,
+			"weight":200,
+			"position":"Forward",
+			"year":"Junior",
+			"hometown":"Holly Springs",
+			"state":"North Carolina",
+			"high_school":"Word of God Christian Academy",
+			"image_url":"/Users/cwells/teamproject/teamproject/teamproject/static_media/img/cjleslie.jpeg",
+			"bio":"A McDonald's All-America selection ... A Parade All-America second-team selection ... Played three years at Word of God High School in Raleigh ... Coached by Erasto Hatchett ... Played at Holly Springs High School as a freshman ... Played in the McDonald's All-America game and the Jordan Classic after his senior season ... Went for seven points and a game-high nine rebounds in 17 minutes in the McDonald's All-America game ... Had 19 points and six rebounds in the Jordan Classic ... Ranked the 11th-best overall prospect by Scout.com and the No. 4 power forward and a five-star prospect ... The No. 14 player nationally and No. 4 power forward according to Rivals.com ... Ranked No. 11 on the ESPNU 100 list, and the No. 5 forward ... No. 9 nationally according to PrepStars.com."
+			
+			}
+	},
+	{
+		"pk":5,
+		"model":"roster.Player",
+		"fields":{
+			"name":"Tyler Lewis",
+			"number":12,
+			"height":71,
+			"weight":157,
+			"position":"Guard",
+			"year":"Freshman",
+			"hometown":"Statesville",
+			"state":"North Carolina",
+			"high_school":"Greensboro Day",
+			"image_url":"/Users/cwells/teamproject/teamproject/teamproject/static_media/img/lewis.jpeg",
+			"bio":" A McDonald's All-American ... Named the 2012 Virginia Gatorade Player of the Year ... Captured the Powerade Jam Fest skills competition title ... Played his senior season at Oak Hill Academy in Mouth of Wilson, Va. ... Led the Warriors to a 44-0 record ... Averaged 12.0 points, 7.9 assists and 2.4 rebounds ... Averaged 15.0 points and 4.8 assists to help Oak Hill win the Les Schwab Invitational crown ... Named the Schwab Invitational MVP ... Had 11 points and six assists in 25 minutes in the Kentucky Derby Festival Basketball Classic all-star game ... Prior to Oak Hill, played for Forsyth Country Day School ... Finished as the school's all-time leader in scoring (1,927) and assists (685) ... Was the 2011 runner-up for the North Carolina Associated Press Player of the Year ... Two time North Carolina AP All-State Men's Prep Basketball Team selection, a two-time NCISAA all-state member, a two-time PACIS Conference Player of the Year and a two-time MaxPreps.com All-American ... Averaged 27.2 points, 7.4 assists, 3.0 rebounds and 2.5 steals in his final season at Forsyth ... Had a 40-point performance at the Tournament of Champions while playing for Team Loaded ... Averaged 27.2 points over four games in the Tournament of Champions ... Ranked the 73rd best prospect by ESPN's Dave Telep ... Rivals.com ranks Lewis as the No. 54 player overall and No. 7 point guard in the country."
+			
+			}
+	},
+	{
+		"pk":6,
+		"model":"roster.Player",
+		"fields":{
+			"name":"Scott Wood",
+			"number":15,
+			"height":78,
+			"weight":169,
+			"position":"Forward",
+			"year":"Senior",
+			"hometown":"Marion",
+			"state":"Indiana",
+			"high_school":"Marion",
+			"image_url":"/Users/cwells/teamproject/teamproject/teamproject/static_media/img/wood.jpeg",
+			"bio":"Named all-state first-team ... Advanced to the 4A regional title game ... Team finished 21-4 ... Averaged 24.8 points ... Played at Marion High School in Marion, Indiana ... Coached by Joe Luce ... Averaged 15.7 points as a junior, including shooting 44.3 percent (86-194) from three-point range ... Led his team to a 24-5 record as a junior, and the 4A state championship game ... Earned all-tournament honors ... Named all-county and honorable mention all-state ... Played in the Indiana-Kentucky All-Star series and the North/South Indiana All-Star Classic ... Ranked No. 126 nationally and the No. 29 shooting guard by Rivals.com ... The No. 34 shooting guard according to ESPNU ... Ranked No. 76 nationally by PrepStars."
+
+			
+			}
+	},
+	{
+		"pk":7,
+		"model":"roster.Player",
+		"fields":{
+			"name":"TJ Warren",
+			"number":24,
+			"height":80,
+			"weight":233,
+			"position":"Forward",
+			"year":"Freshman",
+			"hometown":"Durham",
+			"state":"North Carolina",
+			"high_school":"Brewster Academy",
+			"image_url":"/Users/cwells/teamproject/teamproject/teamproject/static_media/img/warren.jpeg",
+			"bio": "A McDonald's All-American ... Helped Brewster Academy to a 33-1 mark last season ... Bobcat squad knocked off Hargrave Academy to capture National Prep Championship ... Was a NEPSAC Class AAA first team all-league selection ... Helped Brewster reach the semifinals of the NEPSAC Class AAA Tournament ... Scored 10 points, grabbed five rebounds and had two assists in the McDonald's All-America game ... Posted a game-high 27 points on 11-of-16 shooting from the floor in the Kentucky Derby Festival Basketball all-star game ... Also had five rebounds in the contest ... Coached by Jason D. Smith at Brewster ... Ranked as the 23rd best player in the nation by ESPN ... Considered the No. 6 small forward nationally ... Scored 41 points in a Tournament of Champions game versus fellow signee Tyler Lewis ... Also 22nd and 23rd rated high school player by Scout.com and Rivals.com, respectively ... Played for a season at Riverside High in Durham and for a year at Raleigh's Word of God (alma mater of John Wall of the Washington Wizards and current NC State player C.J. Leslie) ... Helped Word of God to a 24-3 mark that season ... Father, Tony, played at NC State from 1977-79 under Norm Sloan."
+			
+			}
+	}
+]
