@@ -1,7 +1,30 @@
 from django.db import models
 
 # Create your models here.
+
+class Team(models.Model):
+    team = models.CharField(unique=False, max_length=50)
+    wins = models.IntegerField(unique=False,max_length=3)
+    losses = models.IntegerField(unique=False,max_length=3)
+    accWins = models.IntegerField(unique=False,max_length=3)
+    accLoss = models.IntegerField(unique=False,max_length=3)
+    
+    def __unicode__(self):
+        return U'%s' %(self.team)
+
+class News(models.Model):
+    headline = models.CharField(max_length=100)
+    article = models.CharField(max_length=2000)
+    author = models.CharField(max_length=100)
+    org = models.CharField(max_length=200)
+    link = models.CharField(max_length=200)
+    team = models.ForeignKey(Team)
+    
+    def __unicode__(self):
+        return U'%s %s %s' %(self.pk, self.team,self.headline)
+
 class Player(models.Model):
+    team = models.ForeignKey('Team')
     name = models.CharField(unique=False, max_length=50)
     number = models.IntegerField(unique=True,max_length=2)
     height = models.IntegerField(unique=False, max_length=4)
@@ -17,7 +40,7 @@ class Player(models.Model):
         ordering = ('number','name')
         
     def __unicode__(self):
-        return U'%s %s' %(self.name,self.number)
+        return U'%s %s %s %s' %(self.name,self.number,self.team,self.number)
     
 #class Stats(models.Model):
 #    player = models.ForeignKey('number.Player')

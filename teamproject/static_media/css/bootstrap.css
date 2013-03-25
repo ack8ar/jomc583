@@ -1,5 +1,5 @@
 /*!
- * Bootstrap v2.3.0
+ * Bootstrap v2.3.1
  *
  * Copyright 2012 Twitter, Inc
  * Licensed under the Apache License v2.0
@@ -228,6 +228,7 @@ body {
   line-height: 20px;
   color: #333333;
   background-color: #ffffff;
+  background-image: url(../img/resolver.jpeg);
 }
 
 a {
@@ -6156,3 +6157,7 @@ a.badge:focus {
 .affix {
   position: fixed;
 }
+}
+.navbar-wrapper {
+	margin-top:15px;
+	}
